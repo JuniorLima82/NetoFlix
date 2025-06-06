@@ -1,0 +1,32 @@
+.movie-details {
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    color: white;
+  }
+  
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.8);
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .content {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .poster img {
+    width: 300px;
+    border-radius: 10px;
+  }
+  
+  .info {
+    flex: 1;
+  }
+  
+  .trailer {
+    margin-top: 20px;
+  }
+
+  

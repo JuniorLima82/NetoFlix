@@ -1,0 +1,13 @@
+.menu-btn{
+    font-size: 20px;
+    border: none;
+    background-color: rgb(26, 4, 4);
+    color: white;
+    padding: 0px 10px;
+}
+
+.menu-btn:hover{
+    cursor: pointer;
+    background-color: rgb(17, 2, 2);
+    
+}
